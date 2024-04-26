@@ -1,2 +1,7 @@
-*.agdai
-MAlonzo/**
+#ignore soundfiles
+*.wav
+*.mp3
+*.aiff
+*.wma
+*.mp4
+*.wave
